@@ -1,3 +1,6 @@
 /data
 venv
 artifacts
+cache/
+models/*.keras
+models/*.pkl
